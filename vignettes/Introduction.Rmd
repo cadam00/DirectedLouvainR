@@ -93,7 +93,7 @@ plot(g,
      edge.width = E(g)$weight * 3,
      edge.curved = rep(0.3, ecount(g)),
      vertex.size = 25,
-     #vertex.label.color = "black",
+     vertex.label.color = "black",
      vertex.label.cex = 1,
      main = paste("Directed Louvain communities, Q =", round(Q,3))
 )
