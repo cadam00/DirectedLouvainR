@@ -88,7 +88,7 @@ directed_louvain <- function(x,
 
   norm <- normalize_to_edges(x)
 
-  if (is.null(lvl)) stop("level must have a value.")
+  if (is.null(level)) stop("level must have a value.")
   if (level == "final") {
     lvl <- -2
   } else if (identical(level, "hierarchical")) {
