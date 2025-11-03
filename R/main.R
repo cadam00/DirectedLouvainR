@@ -95,7 +95,7 @@ directed_louvain <- function(x,
   }
   part <- directed_louvain_fast(norm$edges_num, precision, gamma,
                            #reproducibility,
-                           renumbering, randomized, verbose)
+                           renumbering, randomized, lvl, verbose)
   names(part) <- norm$nodes
   part
 }
