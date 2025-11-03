@@ -1,7 +1,7 @@
 <!-- badges: start -->
 [![CRAN status](https://www.r-pkg.org/badges/version/DirectedLouvainR)](https://CRAN.R-project.org/package=DirectedLouvainR)
 [![Developmental version](https://img.shields.io/badge/devel%20version-0.0.1-blue.svg)](https://CRAN.R-project.org/package=priorCON)
-[![R-CMD-check](https://github.com/cadam00/priorCON/actions/workflows/R-CMD-check.yaml/badge.svg)](https://github.com/cadam00/priorCON/actions/workflows/R-CMD-check.yaml)
+[![R-CMD-check](https://github.com/cadam00/DirectedLouvainR/actions/workflows/R-CMD-check.yaml/badge.svg)](https://github.com/cadam00/DirectedLouvainR/actions/workflows/R-CMD-check.yaml)
 <!-- badges: end -->
 
 # **Introduction to the DirectedLouvainR Package (tutorial)**
