@@ -121,10 +121,10 @@ network analysis across programming languages.
 Blondel, V. D., Guillaume, J. L., Lambiotte, R., & Lefebvre, E. (2008). Fast
 unfolding of communities in large networks.
 <em>Journal of statistical mechanics: theory and experiment</em>, 2008(10),
-P10008. https://doi.org/10.1088/1742-5468/2008/10/P10008 <br>
+P10008. https://doi.org/10.1088/1742-5468/2008/10/P10008 <br> <br>
 
 <span class="nocase" id="ref-csardi2006igraph">
-Csárdi G, Nepusz T (2006). The igraph software package for complex network
+Csárdi G., and Nepusz T. (2006). The igraph software package for complex network
 research.” <em>InterJournal</em>, Complex Systems, 1695. https://igraph.org
 
 <span class="nocase" id="ref-igraph"></span>
@@ -133,10 +133,10 @@ Zanini, Daniel Noom, and Kirill Müller. 2025.
 igraph: Network Analysis and Visualization in R. https://doi.org/10.5281/zenodo.7682609
 
 <span class="nocase" id="ref-dugue2015directed"></span>
-Dugué, N., & Perez, A. (2015). Directed Louvain: maximizing modularity in
+Dugué, N. and Perez, A. (2015). Directed Louvain: maximizing modularity in
 directed networks (Doctoral dissertation, Université d'Orléans).
 
 <span class="nocase" id="ref-dugue2022direction"></span>
-Dugué, N., & Perez, A. (2022). Direction matters in complex networks: A
+Dugué, N. and Perez, A. (2022). Direction matters in complex networks: A
 theoretical and applied study for greedy modularity optimization. <em>Physica
 A: Statistical Mechanics and its Applications</em>, 603, 127798. https://doi.org/10.1016/j.physa.2022.127798
