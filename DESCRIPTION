@@ -16,3 +16,4 @@ Suggests:
     knitr,
     rmarkdown
 VignetteBuilder: knitr, rmarkdown
+URL: https://cadam00.github.io/DirectedLouvainR/

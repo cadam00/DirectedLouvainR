@@ -13,3 +13,5 @@ navbar:
   structure:
     left:  [intro, reference, news]
     right: [github, lightswitch]
+
+
