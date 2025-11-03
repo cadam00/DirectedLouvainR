@@ -119,34 +119,29 @@ directed modularity of about 0.726.
 Antonov M., Csárdi G., Horvát S., Müller K., Nepusz T., Noom D., Salmon M.,
 Traag V., Welles B. F., Zanini F. (2023). igraph enables fast and robust
 network analysis across programming languages.
-<em>arXiv preprint arXiv:2311.10260</em>. [https://doi.org/10.48550/arXiv.2311.10260](https://doi.org/10.48550/arXiv.2311.10260)
-
+<em>arXiv preprint arXiv:2311.10260</em>. https://doi.org/10.48550/arXiv.2311.10260
 
 <span class="nocase" id="ref-blondel2008fast">
 Blondel, V. D., Guillaume, J. L., Lambiotte, R., & Lefebvre, E. (2008). Fast
 unfolding of communities in large networks.
 <em>Journal of statistical mechanics: theory and experiment</em>, 2008(10),
-P10008. [https://doi.org/10.1088/1742-5468/2008/10/P10008](https://doi.org/10.1088/1742-5468/2008/10/P10008)
-
+P10008. https://doi.org/10.1088/1742-5468/2008/10/P10008
 
 <span class="nocase" id="ref-csardi2006igraph">
 Csárdi G, Nepusz T (2006). The igraph software package for complex network
-research.” <em>InterJournal</em>, *Complex Systems*, 1695. [https://igraph.org](https://igraph.org)
-
+research.” <em>InterJournal</em>, *Complex Systems*, 1695. https://igraph.org
 
 <span class="nocase" id="ref-igraph"></span>
 Csárdi, Gábor, Tamás Nepusz, Vincent Traag, Szabolcs Horvát, Fabio
 Zanini, Daniel Noom, and Kirill Müller. 2025.
-igraph: Network Analysis and Visualization in R. [https://doi.org/10.5281/zenodo.7682609](https://doi.org/10.5281/zenodo.7682609)
-
+igraph: Network Analysis and Visualization in R. https://doi.org/10.5281/zenodo.7682609
 
 <span class="nocase" id="ref-dugue2015directed"></span>
 Dugué, N., & Perez, A. (2015). Directed Louvain: maximizing modularity in
 directed networks (Doctoral dissertation, Université d'Orléans).
 
-
 <span class="nocase" id="ref-dugue2022direction"></span>
 Dugué, N., & Perez, A. (2022). Direction matters in complex networks: A
 theoretical and applied study for greedy modularity optimization. <em>Physica
-A: Statistical Mechanics and its Applications</em>, 603, 127798. [https://doi.org/10.1016/j.physa.2022.127798](https://doi.org/10.1016/j.physa.2022.127798)
+A: Statistical Mechanics and its Applications</em>, 603, 127798. https://doi.org/10.1016/j.physa.2022.127798
 
