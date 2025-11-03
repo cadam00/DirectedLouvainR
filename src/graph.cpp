@@ -91,6 +91,8 @@ Graph::Graph(std::vector<std::vector<std::pair<unsigned int, double>>> adjacency
              bool renumbering, bool verbose, bool weighted) {
   std::vector<std::vector<std::pair<unsigned int,double>>> LIN(adjacency_list.size());
 
+  this->weighted = weighted;
+
   this->correspondance.clear();
   for (unsigned int i = 0; i < adjacency_list.size(); ++i)
     correspondance.push_back(i);
