@@ -1,4 +1,4 @@
-# poobly 0.0.1
+# DirectedLouvainR 0.0.1
 
 ## R CMD check results
 
