@@ -132,6 +132,7 @@ Csárdi, Gábor, Tamás Nepusz, Vincent Traag, Szabolcs Horvát, Fabio
 Zanini, Daniel Noom, and Kirill Müller. 2025.
 igraph: Network Analysis and Visualization in R. [https://doi.org/10.5281/zenodo.7682609](https://doi.org/10.5281/zenodo.7682609)
 
+
 <span class="nocase" id="ref-dugue2015directed"></span>
 Dugué, N., & Perez, A. (2015). Directed Louvain: maximizing modularity in
 directed networks (Doctoral dissertation, Université d'Orléans).
