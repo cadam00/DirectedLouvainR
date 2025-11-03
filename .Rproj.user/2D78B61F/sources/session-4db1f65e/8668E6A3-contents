@@ -1,5 +1,0 @@
-useDynLib(DirectedLouvainR, .registration=TRUE)
-importFrom(Rcpp, evalCpp)
-importFrom("igraph", "as_edgelist", "E", "V")
-export("directed_louvain")
-export("directed_modularity")
