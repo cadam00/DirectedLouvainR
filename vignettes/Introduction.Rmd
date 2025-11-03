@@ -146,6 +146,6 @@ directed networks (Doctoral dissertation, Université d'Orléans).
 
 <span class="nocase" id="ref-dugue2022direction"></span>
 Dugué, N., & Perez, A. (2022). Direction matters in complex networks: A
-theoretical and applied study for greedy modularity optimization. \emph{Physica
-A: Statistical Mechanics and its Applications}, 603, 127798.
+theoretical and applied study for greedy modularity optimization. <em>Physica
+A: Statistical Mechanics and its Applications</em>, 603, 127798.
 [https://doi.org/10.1016/j.physa.2022.127798](https://doi.org/10.1016/j.physa.2022.127798)
