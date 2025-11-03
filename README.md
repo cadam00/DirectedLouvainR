@@ -121,7 +121,7 @@ network analysis across programming languages.
 Blondel, V. D., Guillaume, J. L., Lambiotte, R., & Lefebvre, E. (2008). Fast
 unfolding of communities in large networks.
 <em>Journal of statistical mechanics: theory and experiment</em>, 2008(10),
-P10008. https://doi.org/10.1088/1742-5468/2008/10/P10008
+P10008. https://doi.org/10.1088/1742-5468/2008/10/P10008 <br>
 
 <span class="nocase" id="ref-csardi2006igraph">
 Csárdi G, Nepusz T (2006). The igraph software package for complex network
