@@ -27,6 +27,7 @@ IntegerVector directed_louvain_fast(NumericMatrix edges,
   for (int i = 0; i < nrow; i++) {
     unsigned int u = (unsigned int) edges(i,0) - 1;
     unsigned int v = (unsigned int) edges(i,1) - 1;
+    if (u >= n || v >= n) Rcpp::stop("Edge index out of range");
     double w = (ncol == 3) ? edges(i,2) : 1.0;
     adj[u].push_back(std::make_pair(v, w));
   }
