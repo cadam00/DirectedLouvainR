@@ -115,7 +115,7 @@ directed modularity of about 0.726.
 Antonov M., Csárdi G., Horvát S., Müller K., Nepusz T., Noom D., Salmon M.,
 Traag V., Welles B. F., Zanini F. (2023). igraph enables fast and robust
 network analysis across programming languages.
-<em>arXiv preprint arXiv:2311.10260</em>. https://doi.org/10.48550/arXiv.2311.10260
+<em>arXiv preprint arXiv:2311.10260</em>. https://doi.org/10.48550/arXiv.2311.10260 <br>
 
 <span class="nocase" id="ref-blondel2008fast">
 Blondel, V. D., Guillaume, J. L., Lambiotte, R., & Lefebvre, E. (2008). Fast
@@ -125,7 +125,7 @@ P10008. https://doi.org/10.1088/1742-5468/2008/10/P10008 <br> <br>
 
 <span class="nocase" id="ref-csardi2006igraph">
 Csárdi G., and Nepusz T. (2006). The igraph software package for complex network
-research.” <em>InterJournal</em>, Complex Systems, 1695. https://igraph.org <br> <br>
+research.” <em>InterJournal</em>, Complex Systems, 1695. https://igraph.org <br>
 
 <span class="nocase" id="ref-igraph"></span>
 Csárdi, Gábor, Tamás Nepusz, Vincent Traag, Szabolcs Horvát, Fabio
