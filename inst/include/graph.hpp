@@ -15,7 +15,7 @@
  *
  */
 
-#pragma GCC optimize("O3")
+/*! #pragma GCC optimize("O3") */
 
 #ifndef GRAPH_HPP
 #define GRAPH_HPP
