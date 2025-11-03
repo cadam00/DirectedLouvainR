@@ -52,9 +52,9 @@ library(igraph)
 # Build a graph with 3 communities of different sizes.
 # It could be an adjacency matrix or an igraph object instead of this edge list.
 el <- data.frame(
-  from   = c(1,1,2,2,3,3,  4,4,5,5,6,6,  7,7,8,8,9,9,10,10,11,11,12,12),
-  to     = c(2,3,1,3,1,2,  5,6,4,6,4,5,  8,9,7,9,7,8,10,11,10,12,11,12),
-  weight = c(1,1,1,1,1,1,  1,1,1,1,1,1,  1,1,1,1,1,1,  1,1,1,1,1,1)
+  from   = c(1,1,2,2,3,3, 4,4,5,5,6,6, 7,7,8,8,9,9, 10,10,11,11,12,12),
+  to     = c(2,3,1,3,1,2, 5,6,4,6,4,5, 8,9,7,9,7,8, 10,11,10,12,11,12),
+  weight = c(1,1,1,1,1,1, 1,1,1,1,1,1, 1,1,1,1,1,1, 1,1,1,1,1,1)
 )
 
 # Add weaker inter-community edges
@@ -129,8 +129,8 @@ unfolding of communities in large networks.
 P10008.
 [https://doi.org/10.1088/1742-5468/2008/10/P10008](https://doi.org/10.1088/1742-5468/2008/10/P10008)
 
-<span class="nocase" id="ref-csardi2006igraph">The igraph
-Csárdi G, Nepusz T (2006). “The igraph software package for complex network
+<span class="nocase" id="ref-csardi2006igraph">
+Csárdi G, Nepusz T (2006). The igraph software package for complex network
 research.” <em>InterJournal</em>, *Complex Systems*, 1695.
 [https://igraph.org](https://igraph.org)
 
