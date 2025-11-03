@@ -12,7 +12,7 @@
  * ### Authors :
  * + E. Lefebvre, adapted by J.-L. Guillaume
  * + Adapted by Anthony Perez and Nicolas Dugué for handling directed graphs and modularity
- *
+ * + Adapted by Christos Adam for R
  */
 
 /*! #pragma GCC optimize("O3") */
