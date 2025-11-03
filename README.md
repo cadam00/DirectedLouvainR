@@ -11,12 +11,11 @@ clusters/partitions in directed graph. This method is opposed to the original
 Louvain clustering method, dedicated in undirected graphs,
 ([Blondel et al., 2024](#ref-blondel2008fast)). This undirected Louvain is
 already implemented in **igraph** R package
-([Antonov et al., 2022](#ref-antonovl2023fast); Csárdi et al.
-[2006](#ref-csardi2006igraph), [2025](#ref-igraph)). **DirectedLouvainR** is
-highly relied on the method of Dugué and Perez
-([2015](#ref-ref-dugue2015directed), [2022](#ref-dugue2022direction)) and its
-supplementary code **DirectedLouvain** in Python and C++, located
-[here](https://github.com/nicolasdugue/DirectedLouvain).
+([Antonov et al., 2022](#ref-antonovl2023fast); [Csárdi and Nepusz, 2006](#ref-csardi2006igraph),
+[Csárdi et al., 2025](#ref-igraph)). **DirectedLouvainR** is highly relied on
+the method of Dugué and Perez ([2015](#ref-ref-dugue2015directed),
+[2022](#ref-dugue2022direction)) and its supplementary code **DirectedLouvain**
+in Python and C++, located [here](https://github.com/nicolasdugue/DirectedLouvain).
 
 ## **Installation**
 
