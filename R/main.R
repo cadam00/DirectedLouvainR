@@ -85,14 +85,18 @@ directed_louvain <- function(x,
                              randomized = TRUE,
                              level = "final",
                              verbose = FALSE) {
+
   norm <- normalize_to_edges(x)
-  if (level == "final"){
+
+  if (level == "final") {
     lvl <- -2
-  # } else if (level == "hierarchical"){
-  #   lvl <- -1
+  } else if (identical(level, "hierarchical")) {
+    stop("hierarchical output not yet supported.")
   } else {
-    lvl <- level - 1
+    lvl <- as.integer(level - 1)
   }
+  if (is.null(lvl)) stop("level must have a value.")
+
   part <- directed_louvain_fast(norm$edges_num, precision, gamma,
                            #reproducibility,
                            renumbering, randomized, lvl, verbose)
