@@ -1,0 +1,8 @@
+PKG_CXXFLAGS = $(CXX17FLAGS) -I../inst/include
+PKG_LIBS = $(CXX17LIBS)
+
+SOURCES = \
+  RcppExports.cpp \
+  rdirectedlouvain.cpp \
+  community.cpp \
+  graph.cpp

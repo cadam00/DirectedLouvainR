@@ -1,8 +1,28 @@
-<!-- badges: start -->
-[![CRAN status](https://www.r-pkg.org/badges/version/DirectedLouvainR)](https://CRAN.R-project.org/package=DirectedLouvainR)
-[![Developmental version](https://img.shields.io/badge/devel%20version-0.0.1-blue.svg)](https://CRAN.R-project.org/package=priorCON)
-[![R-CMD-check](https://github.com/cadam00/priorCON/actions/workflows/R-CMD-check.yaml/badge.svg)](https://github.com/cadam00/priorCON/actions/workflows/R-CMD-check.yaml)
-<!-- badges: end -->
+---
+title: "Introduction to DirectedLouvainR"
+author: "Christos Adam"
+output:
+  rmarkdown::html_vignette:
+    number_sections: false
+    # md_extensions: [ 
+    #   "-autolink_bare_uris" 
+    # ]
+  word_document: default
+  pdf_document: default
+fontsize: 11pt
+urlcolor: blue
+linkcolor: blue
+link-citations: true
+header-includes: \usepackage{float}
+vignette: >
+  %\VignetteEngine{knitr::rmarkdown}
+  %\VignetteIndexEntry{Introduction to DirectedLouvainR}
+  %\VignetteEncoding{UTF-8}
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE, eval=FALSE)
+```
 
 # **Introduction to the DirectedLouvainR Package (tutorial)**
 
@@ -17,22 +37,6 @@ highly relied on the method of Dugué and Perez
 ([2015](#ref-ref-dugue2015directed), [2022](#ref-dugue2022direction)) and its
 supplementary code **DirectedLouvainR** in Python and C++, located
 [here](https://github.com/nicolasdugue/DirectedLouvain).
-
-## **Installation**
-
-<!--
-All the functions of the package can be installed from CRAN in R via
-``` r
-install.packages("DirectedLouvainR")
-```
--->
-
-Alternatively, the package **DirectedLouvainR** can be installed at the
-development version from Github in R via
-``` r
-if (!require(remotes)) install.packages("remotes")
-remotes::install_github("cadam00/DirectedLouvainR")
-```
 
 ## **Example**
 
@@ -96,7 +100,7 @@ plot(g,
 ```
 
 <p align="center">
-    <img src="vignettes/directedlouvain.png" alt="Directed Louvain communities."
+    <img src="directedlouvain.png" alt="Directed Louvain communities."
     width="50%" />
 </p>
 <p class="caption" align="center">
