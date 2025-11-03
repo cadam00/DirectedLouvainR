@@ -15,7 +15,7 @@ already implemented in **igraph** R package
 [2006](#ref-csardi2006igraph), [2025](#ref-igraph)). **DirectedLouvainR** is
 highly relied on the method of Dugué and Perez
 ([2015](#ref-ref-dugue2015directed), [2022](#ref-dugue2022direction)) and its
-supplementary code **DirectedLouvainR** in Python and C++, located
+supplementary code **DirectedLouvain** in Python and C++, located
 [here](https://github.com/nicolasdugue/DirectedLouvain).
 
 ## **Installation**
