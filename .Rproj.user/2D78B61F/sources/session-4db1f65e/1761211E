@@ -1,0 +1,26 @@
+{
+    "id": "1761211E",
+    "path": "~/packages/DirectedLouvainR/man/directed_louvain.Rd",
+    "project_path": "man/directed_louvain.Rd",
+    "type": "r_doc",
+    "hash": "0",
+    "contents": "",
+    "dirty": false,
+    "created": 1762111949369.0,
+    "source_on_save": false,
+    "relative_order": 16,
+    "properties": {
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "44,11",
+        "scrollLine": "25"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1762179904,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1762179904582,
+    "read_only": false,
+    "read_only_alternatives": []
+}

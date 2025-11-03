@@ -1,0 +1,26 @@
+{
+    "id": "067B225E",
+    "path": "~/packages/DirectedLouvainR/R/main.R",
+    "project_path": "R/main.R",
+    "type": "r_source",
+    "hash": "0",
+    "contents": "",
+    "dirty": false,
+    "created": 1762079942849.0,
+    "source_on_save": false,
+    "relative_order": 15,
+    "properties": {
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "6,77",
+        "scrollLine": "0"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1762179700,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1762179700048,
+    "read_only": false,
+    "read_only_alternatives": []
+}

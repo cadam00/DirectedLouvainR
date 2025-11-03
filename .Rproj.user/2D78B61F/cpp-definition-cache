@@ -1,0 +1,541 @@
+[
+    {
+        "file": "C:/Users/Administrator/Documents/packages/DirectedLouvainR/inst/include/community.hpp",
+        "file_last_write": 1762152582.0,
+        "definitions": [
+            {
+                "usr": "c:@S@count",
+                "kind": 3,
+                "parent_name": "",
+                "name": "count",
+                "file": "C:/Users/Administrator/Documents/packages/DirectedLouvainR/inst/include/community.hpp",
+                "line": 25,
+                "column": 8,
+                "hidden": false
+            },
+            {
+                "usr": "c:community.hpp@T@Count",
+                "kind": 8,
+                "parent_name": "",
+                "name": "Count",
+                "file": "C:/Users/Administrator/Documents/packages/DirectedLouvainR/inst/include/community.hpp",
+                "line": 31,
+                "column": 22,
+                "hidden": false
+            },
+            {
+                "usr": "c:@S@Community",
+                "kind": 2,
+                "parent_name": "",
+                "name": "Community",
+                "file": "C:/Users/Administrator/Documents/packages/DirectedLouvainR/inst/include/community.hpp",
+                "line": 38,
+                "column": 7,
+                "hidden": false
+            },
+            {
+                "usr": "c:@S@Community@F@set_partition#&1$@N@std@S@vector>#I#$@N@std@S@allocator>#I#",
+                "kind": 7,
+                "parent_name": "Community",
+                "name": "set_partition(const std::vector<int> &)",
+                "file": "C:/Users/Administrator/Documents/packages/DirectedLouvainR/inst/include/community.hpp",
+                "line": 106,
+                "column": 14,
+                "hidden": false
+            },
+            {
+                "usr": "c:@S@Community@F@get_graph#",
+                "kind": 7,
+                "parent_name": "Community",
+                "name": "get_graph",
+                "file": "C:/Users/Administrator/Documents/packages/DirectedLouvainR/inst/include/community.hpp",
+                "line": 202,
+                "column": 29,
+                "hidden": false
+            },
+            {
+                "usr": "c:@S@Community@F@get_size#1",
+                "kind": 7,
+                "parent_name": "Community",
+                "name": "get_size",
+                "file": "C:/Users/Administrator/Documents/packages/DirectedLouvainR/inst/include/community.hpp",
+                "line": 206,
+                "column": 29,
+                "hidden": false
+            },
+            {
+                "usr": "c:@S@Community@F@get_community#i#1",
+                "kind": 7,
+                "parent_name": "Community",
+                "name": "get_community(unsigned int)",
+                "file": "C:/Users/Administrator/Documents/packages/DirectedLouvainR/inst/include/community.hpp",
+                "line": 214,
+                "column": 29,
+                "hidden": false
+            },
+            {
+                "usr": "c:@S@Community@F@get_hierarchy#1",
+                "kind": 7,
+                "parent_name": "Community",
+                "name": "get_hierarchy",
+                "file": "C:/Users/Administrator/Documents/packages/DirectedLouvainR/inst/include/community.hpp",
+                "line": 221,
+                "column": 46,
+                "hidden": false
+            }
+        ],
+        "hidden": false
+    },
+    {
+        "file": "C:/Users/Administrator/Documents/packages/DirectedLouvainR/inst/include/graph.hpp",
+        "file_last_write": 1762152524.0,
+        "definitions": [
+            {
+                "usr": "c:@S@Graph",
+                "kind": 2,
+                "parent_name": "",
+                "name": "Graph",
+                "file": "C:/Users/Administrator/Documents/packages/DirectedLouvainR/inst/include/graph.hpp",
+                "line": 42,
+                "column": 7,
+                "hidden": false
+            },
+            {
+                "usr": "c:@S@Graph@F@get_out_neighbor#k#",
+                "kind": 7,
+                "parent_name": "Graph",
+                "name": "get_out_neighbor(size_t)",
+                "file": "C:/Users/Administrator/Documents/packages/DirectedLouvainR/inst/include/graph.hpp",
+                "line": 173,
+                "column": 22,
+                "hidden": false
+            },
+            {
+                "usr": "c:@S@Graph@F@get_in_neighbor#k#",
+                "kind": 7,
+                "parent_name": "Graph",
+                "name": "get_in_neighbor(size_t)",
+                "file": "C:/Users/Administrator/Documents/packages/DirectedLouvainR/inst/include/graph.hpp",
+                "line": 178,
+                "column": 22,
+                "hidden": false
+            },
+            {
+                "usr": "c:@S@Graph@F@get_weighted_out_neighbor#k#",
+                "kind": 7,
+                "parent_name": "Graph",
+                "name": "get_weighted_out_neighbor(size_t)",
+                "file": "C:/Users/Administrator/Documents/packages/DirectedLouvainR/inst/include/graph.hpp",
+                "line": 183,
+                "column": 22,
+                "hidden": false
+            },
+            {
+                "usr": "c:@S@Graph@F@get_weighted_in_neighbor#k#",
+                "kind": 7,
+                "parent_name": "Graph",
+                "name": "get_weighted_in_neighbor(size_t)",
+                "file": "C:/Users/Administrator/Documents/packages/DirectedLouvainR/inst/include/graph.hpp",
+                "line": 188,
+                "column": 22,
+                "hidden": false
+            },
+            {
+                "usr": "c:@S@Graph@F@get_nodes#1",
+                "kind": 7,
+                "parent_name": "Graph",
+                "name": "get_nodes",
+                "file": "C:/Users/Administrator/Documents/packages/DirectedLouvainR/inst/include/graph.hpp",
+                "line": 194,
+                "column": 22,
+                "hidden": false
+            },
+            {
+                "usr": "c:@S@Graph@F@get_arcs#1",
+                "kind": 7,
+                "parent_name": "Graph",
+                "name": "get_arcs",
+                "file": "C:/Users/Administrator/Documents/packages/DirectedLouvainR/inst/include/graph.hpp",
+                "line": 198,
+                "column": 22,
+                "hidden": false
+            },
+            {
+                "usr": "c:@S@Graph@F@get_total_weight#1",
+                "kind": 7,
+                "parent_name": "Graph",
+                "name": "get_total_weight",
+                "file": "C:/Users/Administrator/Documents/packages/DirectedLouvainR/inst/include/graph.hpp",
+                "line": 202,
+                "column": 16,
+                "hidden": false
+            },
+            {
+                "usr": "c:@S@Graph@F@get_correspondance#",
+                "kind": 7,
+                "parent_name": "Graph",
+                "name": "get_correspondance",
+                "file": "C:/Users/Administrator/Documents/packages/DirectedLouvainR/inst/include/graph.hpp",
+                "line": 206,
+                "column": 38,
+                "hidden": false
+            },
+            {
+                "usr": "c:@S@Graph@F@is_weighted#",
+                "kind": 7,
+                "parent_name": "Graph",
+                "name": "is_weighted",
+                "file": "C:/Users/Administrator/Documents/packages/DirectedLouvainR/inst/include/graph.hpp",
+                "line": 210,
+                "column": 14,
+                "hidden": false
+            },
+            {
+                "usr": "c:@S@Graph@F@out_neighbors#i#1",
+                "kind": 7,
+                "parent_name": "Graph",
+                "name": "out_neighbors(unsigned int)",
+                "file": "C:/Users/Administrator/Documents/packages/DirectedLouvainR/inst/include/graph.hpp",
+                "line": 217,
+                "column": 22,
+                "hidden": false
+            },
+            {
+                "usr": "c:@S@Graph@F@out_degree#i#1",
+                "kind": 7,
+                "parent_name": "Graph",
+                "name": "out_degree(unsigned int)",
+                "file": "C:/Users/Administrator/Documents/packages/DirectedLouvainR/inst/include/graph.hpp",
+                "line": 222,
+                "column": 28,
+                "hidden": false
+            },
+            {
+                "usr": "c:@S@Graph@F@in_neighbors#i#",
+                "kind": 7,
+                "parent_name": "Graph",
+                "name": "in_neighbors(unsigned int)",
+                "file": "C:/Users/Administrator/Documents/packages/DirectedLouvainR/inst/include/graph.hpp",
+                "line": 227,
+                "column": 22,
+                "hidden": false
+            },
+            {
+                "usr": "c:@S@Graph@F@in_degree#i#",
+                "kind": 7,
+                "parent_name": "Graph",
+                "name": "in_degree(unsigned int)",
+                "file": "C:/Users/Administrator/Documents/packages/DirectedLouvainR/inst/include/graph.hpp",
+                "line": 232,
+                "column": 28,
+                "hidden": false
+            },
+            {
+                "usr": "c:@S@Graph@F@weighted_degree#i#",
+                "kind": 7,
+                "parent_name": "Graph",
+                "name": "weighted_degree(unsigned int)",
+                "file": "C:/Users/Administrator/Documents/packages/DirectedLouvainR/inst/include/graph.hpp",
+                "line": 237,
+                "column": 22,
+                "hidden": false
+            },
+            {
+                "usr": "c:@S@Graph@F@set_weighted#b#",
+                "kind": 7,
+                "parent_name": "Graph",
+                "name": "set_weighted(bool)",
+                "file": "C:/Users/Administrator/Documents/packages/DirectedLouvainR/inst/include/graph.hpp",
+                "line": 242,
+                "column": 20,
+                "hidden": false
+            }
+        ],
+        "hidden": false
+    },
+    {
+        "file": "C:/Users/Administrator/Documents/packages/DirectedLouvainR/inst/include/utils.hpp",
+        "file_last_write": 1761988561.0,
+        "definitions": [
+            {
+                "usr": "c:@F@usage#*C#",
+                "kind": 6,
+                "parent_name": "",
+                "name": "usage(char *)",
+                "file": "C:/Users/Administrator/Documents/packages/DirectedLouvainR/inst/include/utils.hpp",
+                "line": 20,
+                "column": 6,
+                "hidden": false
+            },
+            {
+                "usr": "c:@F@parse_args#I#**C#",
+                "kind": 6,
+                "parent_name": "",
+                "name": "parse_args(int, char **)",
+                "file": "C:/Users/Administrator/Documents/packages/DirectedLouvainR/inst/include/utils.hpp",
+                "line": 40,
+                "column": 6,
+                "hidden": false
+            }
+        ],
+        "hidden": false
+    },
+    {
+        "file": "C:/Users/Administrator/Documents/packages/DirectedLouvainR/src/community.cpp",
+        "file_last_write": 1762152551.0,
+        "definitions": [
+            {
+                "usr": "c:@S@Community@F@init_attributes#",
+                "kind": 7,
+                "parent_name": "Community",
+                "name": "init_attributes",
+                "file": "C:/Users/Administrator/Documents/packages/DirectedLouvainR/src/community.cpp",
+                "line": 24,
+                "column": 17,
+                "hidden": false
+            },
+            {
+                "usr": "c:@S@Community@F@init_partition#$@N@std@N@__cxx11@S@basic_string>#C#$@N@std@S@char_traits>#C#$@N@std@S@allocator>#C#",
+                "kind": 7,
+                "parent_name": "Community",
+                "name": "init_partition(std::string)",
+                "file": "C:/Users/Administrator/Documents/packages/DirectedLouvainR/src/community.cpp",
+                "line": 46,
+                "column": 17,
+                "hidden": false
+            },
+            {
+                "usr": "c:@S@Community@F@display#",
+                "kind": 7,
+                "parent_name": "Community",
+                "name": "display",
+                "file": "C:/Users/Administrator/Documents/packages/DirectedLouvainR/src/community.cpp",
+                "line": 81,
+                "column": 17,
+                "hidden": false
+            },
+            {
+                "usr": "c:@S@Community@F@modularity#",
+                "kind": 7,
+                "parent_name": "Community",
+                "name": "modularity",
+                "file": "C:/Users/Administrator/Documents/packages/DirectedLouvainR/src/community.cpp",
+                "line": 92,
+                "column": 19,
+                "hidden": false
+            },
+            {
+                "usr": "c:@S@Community@F@display_partition#",
+                "kind": 7,
+                "parent_name": "Community",
+                "name": "display_partition",
+                "file": "C:/Users/Administrator/Documents/packages/DirectedLouvainR/src/community.cpp",
+                "line": 105,
+                "column": 17,
+                "hidden": false
+            },
+            {
+                "usr": "c:@S@Community@F@partition_to_graph#",
+                "kind": 7,
+                "parent_name": "Community",
+                "name": "partition_to_graph",
+                "file": "C:/Users/Administrator/Documents/packages/DirectedLouvainR/src/community.cpp",
+                "line": 114,
+                "column": 17,
+                "hidden": false
+            },
+            {
+                "usr": "c:@S@Community@F@one_level#&d#",
+                "kind": 7,
+                "parent_name": "Community",
+                "name": "one_level(double &)",
+                "file": "C:/Users/Administrator/Documents/packages/DirectedLouvainR/src/community.cpp",
+                "line": 213,
+                "column": 17,
+                "hidden": false
+            },
+            {
+                "usr": "c:@S@Community@F@get_level#I#",
+                "kind": 7,
+                "parent_name": "Community",
+                "name": "get_level(int)",
+                "file": "C:/Users/Administrator/Documents/packages/DirectedLouvainR/src/community.cpp",
+                "line": 291,
+                "column": 44,
+                "hidden": false
+            },
+            {
+                "usr": "c:@S@Community@F@get_last_level#",
+                "kind": 7,
+                "parent_name": "Community",
+                "name": "get_last_level",
+                "file": "C:/Users/Administrator/Documents/packages/DirectedLouvainR/src/community.cpp",
+                "line": 308,
+                "column": 44,
+                "hidden": false
+            },
+            {
+                "usr": "c:@S@Community@F@print_level#I#",
+                "kind": 7,
+                "parent_name": "Community",
+                "name": "print_level(int)",
+                "file": "C:/Users/Administrator/Documents/packages/DirectedLouvainR/src/community.cpp",
+                "line": 312,
+                "column": 17,
+                "hidden": false
+            },
+            {
+                "usr": "c:@S@Community@F@run#b#&1I#&1$@N@std@N@__cxx11@S@basic_string>#C#$@N@std@S@char_traits>#C#$@N@std@S@allocator>#C#",
+                "kind": 7,
+                "parent_name": "Community",
+                "name": "run(bool, const int &, const std::string &)",
+                "file": "C:/Users/Administrator/Documents/packages/DirectedLouvainR/src/community.cpp",
+                "line": 327,
+                "column": 16,
+                "hidden": false
+            }
+        ],
+        "hidden": false
+    },
+    {
+        "file": "C:/Users/Administrator/Documents/packages/DirectedLouvainR/src/graph.cpp",
+        "file_last_write": 1762152536.0,
+        "definitions": [
+            {
+                "usr": "c:@F@init_attributes#&$@S@Graph#&$@N@std@S@vector>#$@N@std@S@vector>#$@N@std@S@pair>#i#d#$@N@std@S@allocator>#S5_#$@N@std@S@allocator>#S4_#S2_#b#",
+                "kind": 6,
+                "parent_name": "",
+                "name": "init_attributes(Graph &, std::vector<std::vector<std::pair<unsigned int, double>>> &, std::vector<std::vector<std::pair<unsigned int, double>>> &, bool)",
+                "file": "C:/Users/Administrator/Documents/packages/DirectedLouvainR/src/graph.cpp",
+                "line": 10,
+                "column": 6,
+                "hidden": false
+            },
+            {
+                "usr": "c:@S@Graph@F@write#$@N@std@N@__cxx11@S@basic_string>#C#$@N@std@S@char_traits>#C#$@N@std@S@allocator>#C#",
+                "kind": 7,
+                "parent_name": "Graph",
+                "name": "write(std::string)",
+                "file": "C:/Users/Administrator/Documents/packages/DirectedLouvainR/src/graph.cpp",
+                "line": 149,
+                "column": 13,
+                "hidden": false
+            },
+            {
+                "usr": "c:@S@Graph@F@load#$@N@std@N@__cxx11@S@basic_string>#C#$@N@std@S@char_traits>#C#$@N@std@S@allocator>#C#b#",
+                "kind": 7,
+                "parent_name": "Graph",
+                "name": "load(std::string, bool)",
+                "file": "C:/Users/Administrator/Documents/packages/DirectedLouvainR/src/graph.cpp",
+                "line": 168,
+                "column": 13,
+                "hidden": false
+            },
+            {
+                "usr": "c:@S@Graph@F@display#1",
+                "kind": 7,
+                "parent_name": "Graph",
+                "name": "display",
+                "file": "C:/Users/Administrator/Documents/packages/DirectedLouvainR/src/graph.cpp",
+                "line": 219,
+                "column": 13,
+                "hidden": false
+            },
+            {
+                "usr": "c:@S@Graph@F@count_selfloops#i#",
+                "kind": 7,
+                "parent_name": "Graph",
+                "name": "count_selfloops(unsigned int)",
+                "file": "C:/Users/Administrator/Documents/packages/DirectedLouvainR/src/graph.cpp",
+                "line": 233,
+                "column": 15,
+                "hidden": false
+            },
+            {
+                "usr": "c:@S@Graph@F@weighted_out_degree#i#",
+                "kind": 7,
+                "parent_name": "Graph",
+                "name": "weighted_out_degree(unsigned int)",
+                "file": "C:/Users/Administrator/Documents/packages/DirectedLouvainR/src/graph.cpp",
+                "line": 247,
+                "column": 15,
+                "hidden": false
+            },
+            {
+                "usr": "c:@S@Graph@F@weighted_in_degree#i#",
+                "kind": 7,
+                "parent_name": "Graph",
+                "name": "weighted_in_degree(unsigned int)",
+                "file": "C:/Users/Administrator/Documents/packages/DirectedLouvainR/src/graph.cpp",
+                "line": 260,
+                "column": 15,
+                "hidden": false
+            }
+        ],
+        "hidden": false
+    },
+    {
+        "file": "C:/Users/Administrator/Documents/packages/DirectedLouvainR/src/hierarchy.cpp",
+        "file_last_write": 1762081325.0,
+        "definitions": [
+            {
+                "usr": "c:@F@usage#*C#*1C#",
+                "kind": 6,
+                "parent_name": "",
+                "name": "usage(char *, const char *)",
+                "file": "C:/Users/Administrator/Documents/packages/DirectedLouvainR/src/hierarchy.cpp",
+                "line": 31,
+                "column": 1,
+                "hidden": false
+            },
+            {
+                "usr": "c:@F@parse_args#I#**C#",
+                "kind": 6,
+                "parent_name": "",
+                "name": "parse_args(int, char **)",
+                "file": "C:/Users/Administrator/Documents/packages/DirectedLouvainR/src/hierarchy.cpp",
+                "line": 46,
+                "column": 1,
+                "hidden": false
+            },
+            {
+                "usr": "c:@F@main#I#**C#",
+                "kind": 6,
+                "parent_name": "",
+                "name": "main(int, char **)",
+                "file": "C:/Users/Administrator/Documents/packages/DirectedLouvainR/src/hierarchy.cpp",
+                "line": 75,
+                "column": 1,
+                "hidden": false
+            }
+        ],
+        "hidden": false
+    },
+    {
+        "file": "C:/Users/Administrator/Documents/packages/DirectedLouvainR/src/rdirectedlouvain.cpp",
+        "file_last_write": 1762179100.0,
+        "definitions": [
+            {
+                "usr": "c:@F@directed_louvain_fast#$@N@Rcpp@S@Matrix>#VI14#@N@Rcpp@ST>1#T@PreserveStorage#d#d#b#b#I#b#",
+                "kind": 6,
+                "parent_name": "",
+                "name": "directed_louvain_fast(Rcpp::NumericMatrix, double, double, bool, bool, int, bool)",
+                "file": "C:/Users/Administrator/Documents/packages/DirectedLouvainR/src/rdirectedlouvain.cpp",
+                "line": 6,
+                "column": 15,
+                "hidden": false
+            },
+            {
+                "usr": "c:@F@directed_modularity_fast#$@N@Rcpp@S@Matrix>#VI14#@N@Rcpp@ST>1#T@PreserveStorage#$@N@Rcpp@S@Vector>#VI13#@N@Rcpp@ST>1#T@PreserveStorage#",
+                "kind": 6,
+                "parent_name": "",
+                "name": "directed_modularity_fast(Rcpp::NumericMatrix, Rcpp::IntegerVector)",
+                "file": "C:/Users/Administrator/Documents/packages/DirectedLouvainR/src/rdirectedlouvain.cpp",
+                "line": 62,
+                "column": 8,
+                "hidden": false
+            }
+        ],
+        "hidden": false
+    }
+]

@@ -1,0 +1,26 @@
+{
+    "id": "1C780427",
+    "path": "~/packages/DirectedLouvainR/inst/include/graph.hpp",
+    "project_path": "inst/include/graph.hpp",
+    "type": "hpp",
+    "hash": "0",
+    "contents": "",
+    "dirty": false,
+    "created": 1762152338973.0,
+    "source_on_save": false,
+    "relative_order": 4,
+    "properties": {
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "233,29",
+        "scrollLine": "0"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1762152524,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1762152524432,
+    "read_only": false,
+    "read_only_alternatives": []
+}
