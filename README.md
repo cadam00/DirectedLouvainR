@@ -125,7 +125,7 @@ P10008. https://doi.org/10.1088/1742-5468/2008/10/P10008 <br> <br>
 
 <span class="nocase" id="ref-csardi2006igraph">
 Csárdi G., and Nepusz T. (2006). The igraph software package for complex network
-research.” <em>InterJournal</em>, Complex Systems, 1695. https://igraph.org
+research.” <em>InterJournal</em>, Complex Systems, 1695. https://igraph.org <br> <br>
 
 <span class="nocase" id="ref-igraph"></span>
 Csárdi, Gábor, Tamás Nepusz, Vincent Traag, Szabolcs Horvát, Fabio
