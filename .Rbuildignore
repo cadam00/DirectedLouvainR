@@ -1,6 +1,5 @@
 ^.*\.Rproj$
 ^\.Rproj\.user$
-^LICENSE$
 ^cran-comments\.md$
 ^\.github$
 ^_pkgdown\.yml$
