@@ -29,7 +29,7 @@ knitr::opts_chunk$set(echo = TRUE, eval=FALSE)
 The **DirectedLouvainR** package is an R package, dedicated in detecting
 clusters/partitions in directed graph. This method is opposed to the original
 Louvain clustering method, dedicated in undirected graphs,
-([Blondel et al., 2024](#ref-blondel2008fast)). This undirected Louvain is
+([Blondel et al., 2008](#ref-blondel2008fast)). This undirected Louvain is
 already implemented in **igraph** R package
 ([Antonov et al., 2022](#ref-antonovl2023fast); [Csárdi and Nepusz, 2006](#ref-csardi2006igraph),
 [Csárdi et al., 2025](#ref-igraph)). **DirectedLouvainR** is highly relied on
