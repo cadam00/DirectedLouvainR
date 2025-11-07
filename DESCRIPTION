@@ -7,6 +7,7 @@ Authors@R: c(person("Christos", "Adam", role = c("aut", "cre"),
            )
 Description: Directed Louvain clustering for graphs, based on the algorithm of Dugué and Perez (2022) <doi:10.1016/j.physa.2022.127798>. It is an extension of the undirected Louvain clustering of Blondel et al. (2008) <doi:10.1088/1742-5468/2008/10/P10008>, but using directed modularity definition instead of the original undirected one.
 License: GPL-2 | file LICENSE
+Copyright: COPYRIGHT
 Encoding: UTF-8
 LinkingTo: Rcpp
 Imports: Rcpp, igraph
