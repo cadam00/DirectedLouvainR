@@ -1,0 +1,16 @@
+Files: inst/include/*
+Copyright: 2008 V. Blondel, J.-L. Guillaume, R. Lambiotte, E. Lefebvre
+License: This program must not be distributed without agreement of the above mentionned authors.
+
+Files: inst/include/*
+Copyright: 2022 N. Dugué, A. Perez
+License: GPL-2.0
+
+Files: src/*
+Copyright: 2008 V. Blondel, J.-L. Guillaume, R. Lambiotte, E. Lefebvre
+License: This program must not be distributed without agreement of the above mentionned authors.
+
+Files: src/*
+Copyright: 2022 N. Dugué, A. Perez
+License: GPL-2.0
+
